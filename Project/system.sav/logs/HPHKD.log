@@ -1,0 +1,33 @@
+[Tue 03/14/2023  2:32:38.81] Installing HP HotKey Drivers 
+[Tue 03/14/2023  2:32:38.90] 64BIT Operating System Detected 
+[Tue 03/14/2023  2:32:38.90] Installing 64 bit drivers...
+Microsoft PnP Utility
+
+Processing inf :            HpqKbFiltr.inf
+Failed to install the driver : No more data is available.
+
+
+Total attempted:              1
+Number successfully imported: 0
+
+Microsoft PnP Utility
+
+Processing inf :            HpqKbFiltrExtension.inf
+Failed to install the driver : No more data is available.
+
+
+Total attempted:              1
+Number successfully imported: 0
+
+Microsoft PnP Utility
+
+Processing inf :            HpqKbSoftwareCompnent.inf
+Failed to install the driver : No more data is available.
+
+
+Total attempted:              1
+Number successfully imported: 0
+
+[Tue 03/14/2023  2:32:45.18]  HK-BASE - ErrorLevel "259"  	   
+[Tue 03/14/2023  2:32:45.18]  HK-EXT  - ErrorLevel "259"  
+[Tue 03/14/2023  2:32:45.20]  HK-COMP - ErrorLevel "259"  

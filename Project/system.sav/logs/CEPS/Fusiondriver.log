@@ -1,0 +1,183 @@
+C:\Apps\HotKey-G7\src\Fusion\src 
+
+C:\Apps\HotKey-G7\src\Fusion\src 
+
+Tue 03/14/2023  2:32:25.44  ******************** 
+Tue 03/14/2023  2:32:25.45    HSA Fusion Driver  
+Tue 03/14/2023  2:32:25.45  ******************** 
+
+Tue 03/14/2023  2:32:25.46  Running "install.cmd" from "C:\Apps\HotKey-G7\src\Fusion\src\" 
+
+.\x64\Logging.dll
+1 File(s) copied
+Tue 03/14/2023  2:32:25.49  copy Logging.dll : Error Level "0" 
+.\oobeparts\oobe1.txt
+1 File(s) copied
+Tue 03/14/2023  2:32:25.51  copy oobe1.txt : Error Level "0" 
+.\oobeparts\sub1.txt
+1 File(s) copied
+Tue 03/14/2023  2:32:25.53  copy sub1.txt : Error Level "0" 
+Tue 03/14/2023  2:32:25.56  copy oobe2.txt : Error Level "0" 
+.\oobeparts\sub2.txt
+1 File(s) copied
+Tue 03/14/2023  2:32:25.58  copy sub2.txt : Error Level "0" 
+.\oobeparts\oobe3.txt
+1 File(s) copied
+Tue 03/14/2023  2:32:25.60  copy oobe3.txt : Error Level "0" 
+.\oobeparts\sub3.txt
+1 File(s) copied
+Tue 03/14/2023  2:32:25.62  copy sub3.txt : Error Level "0" 
+.\oobeparts\oobe4.txt
+1 File(s) copied
+Tue 03/14/2023  2:32:25.66  copy oobe4.txt : Error Level "0" 
+.\oobeparts\sub4.txt
+1 File(s) copied
+Tue 03/14/2023  2:32:25.68  copy sub4.txt : Error Level "0" 
+
+processed file: c:\hp\bridge\oobe1.txt
+Successfully processed 1 files; Failed processing 0 files
+Tue 03/14/2023  2:32:25.76  modify oobe1.txt permissions : Error Level "0" 
+processed file: c:\hp\bridge\oobe1.txt
+Successfully processed 1 files; Failed processing 0 files
+Tue 03/14/2023  2:32:25.78  modify oobe1.txt owner : Error Level "0" 
+processed file: c:\hp\bridge\sub1.txt
+Successfully processed 1 files; Failed processing 0 files
+Tue 03/14/2023  2:32:25.80  modify sub1.txt permissions : Error Level "0" 
+processed file: c:\hp\bridge\sub1.txt
+Successfully processed 1 files; Failed processing 0 files
+Tue 03/14/2023  2:32:25.81  modify sub1.txt owner : Error Level "0" 
+processed file: c:\hp\bridge
+Successfully processed 1 files; Failed processing 0 files
+Tue 03/14/2023  2:32:25.86  /deny Everyone:(OI)(CI)(DE,DC) : Error Level "0" 
+Tue 03/14/2023  2:32:25.86  /deny Everyone:(OI)(CI)(DE,DC) : Error Level "0" 
+processed file: c:\hp\bridge
+Successfully processed 1 files; Failed processing 0 files
+Tue 03/14/2023  2:32:25.91  modify folder owner : Error Level "0" 
+processed file: c:\programdata\hp\bridge\oobe2.txt
+Successfully processed 1 files; Failed processing 0 files
+Tue 03/14/2023  2:32:25.93  modify oobe2.txt permissions : Error Level "0" 
+processed file: c:\programdata\hp\bridge\oobe2.txt
+Successfully processed 1 files; Failed processing 0 files
+Tue 03/14/2023  2:32:25.95  modify oobe2.txt owner : Error Level "0" 
+processed file: c:\programdata\hp\bridge\sub2.txt
+Successfully processed 1 files; Failed processing 0 files
+Tue 03/14/2023  2:32:25.96  modify sub2.txt permissions : Error Level "0" 
+processed file: c:\programdata\hp\bridge\sub2.txt
+Successfully processed 1 files; Failed processing 0 files
+Tue 03/14/2023  2:32:25.98  modify sub2.txt owner : Error Level "0" 
+processed file: c:\programdata\hp\registration\oobe3.txt
+Successfully processed 1 files; Failed processing 0 files
+processed file: c:\programdata\hp\bridge
+Successfully processed 1 files; Failed processing 0 files
+Tue 03/14/2023  2:32:26.01  /deny Everyone:(OI)(CI)(DE,DC) : Error Level "0" 
+Tue 03/14/2023  2:32:26.01  /deny Everyone:(OI)(CI)(DE,DC) : Error Level "0" 
+processed file: c:\programdata\hp\bridge
+Successfully processed 1 files; Failed processing 0 files
+Tue 03/14/2023  2:32:26.03  modify folder owner : Error Level "0" 
+Tue 03/14/2023  2:32:26.04  modify oobe3.txt permissions : Error Level "0" 
+processed file: c:\programdata\hp\registration\oobe3.txt
+Successfully processed 1 files; Failed processing 0 files
+Tue 03/14/2023  2:32:26.06  modify oobe3.txt owner : Error Level "0" 
+processed file: c:\programdata\hp\registration\sub3.txt
+Successfully processed 1 files; Failed processing 0 files
+Tue 03/14/2023  2:32:26.07  modify sub3.txt permissions : Error Level "0" 
+processed file: c:\programdata\hp\registration\sub3.txt
+Successfully processed 1 files; Failed processing 0 files
+Tue 03/14/2023  2:32:26.09  modify sub3.txt owner : Error Level "0" 
+processed file: c:\programdata\hp\registration
+Successfully processed 1 files; Failed processing 0 files
+Tue 03/14/2023  2:32:26.11  /deny Everyone:(OI)(CI)(DE,DC) : Error Level "0" 
+Tue 03/14/2023  2:32:26.11  /deny Everyone:(OI)(CI)(DE,DC) : Error Level "0" 
+processed file: c:\programdata\hp\registration
+Successfully processed 1 files; Failed processing 0 files
+Tue 03/14/2023  2:32:26.13  modify folder owner : Error Level "0" 
+processed file: c:\hp\HPQWare\bridge\oobe4.txt
+Successfully processed 1 files; Failed processing 0 files
+Tue 03/14/2023  2:32:26.15  modify oobe4.txt permissions : Error Level "0" 
+processed file: c:\hp\HPQWare\bridge\oobe4.txt
+Successfully processed 1 files; Failed processing 0 files
+Tue 03/14/2023  2:32:26.16  modify oobe4.txt owner : Error Level "0" 
+processed file: c:\hp\HPQWare\bridge\sub4.txt
+Successfully processed 1 files; Failed processing 0 files
+Tue 03/14/2023  2:32:26.18  modify sub4.txt permissions : Error Level "0" 
+processed file: c:\hp\HPQWare\bridge\sub4.txt
+Successfully processed 1 files; Failed processing 0 files
+Tue 03/14/2023  2:32:26.20  modify sub4.txt owner : Error Level "0" 
+processed file: c:\hp\HPQWare\bridge
+Successfully processed 1 files; Failed processing 0 files
+Tue 03/14/2023  2:32:26.22  /deny Everyone:(OI)(CI)(DE,DC) : Error Level "0" 
+Tue 03/14/2023  2:32:26.22  /deny Everyone:(OI)(CI)(DE,DC) : Error Level "0" 
+processed file: c:\hp\HPQWare\bridge
+Successfully processed 1 files; Failed processing 0 files
+Tue 03/14/2023  2:32:26.24  modify folder owner : Error Level "0" 
+
+
+SERVICE_NAME: hpsysinfocap 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: hpapphelpercap 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: hpnetworkcap 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+ERROR: The process "sysinfocap.exe" not found.
+ERROR: The process "apphelpercap.exe" not found.
+ERROR: The process "networkcap.exe" not found.
+C:\Apps\HotKey-G7\src\Fusion\src 
+
+
+
+hpcustomcapdriver.inf
+oem257.inf
+
+1
+0
+Tue 03/14/2023  2:32:28.38  hpcustomcapdriver install result : Error Level "259"  Error Flag "0" 
+Tue 03/14/2023  2:32:28.40  BASE - ErrorLevel "0"  Error Flag "259" 
+C:\Apps\HotKey-G7\src\Fusion\src 
+
+
+
+hpcustomcapext.inf
+oem148.inf
+
+1
+0
+Tue 03/14/2023  2:32:29.06  hpcustomcapext install result : ErrorLevel "259"  Error Flag "0" 
+Tue 03/14/2023  2:32:29.07  EXT - ErrorLevel "0"  Error Flag "259" 
+Tue 03/14/2023  2:32:29.08  EXT - ErrorLevel "0"  Error Flag "0" 
+C:\Apps\HotKey-G7\src\Fusion\src 
+
+
+
+hpcustomcapcomp.inf
+oem258.inf
+
+1
+0
+Tue 03/14/2023  2:32:38.62  hpcustomcapcomp install result : ErrorLevel "259"  Error Flag "0" 
+Tue 03/14/2023  2:32:38.64  COMP - ErrorLevel "0"  Error Flag "259" 
+Tue 03/14/2023  2:32:38.66  COMP - ErrorLevel "0"  Error Flag "0" 
+
+Tue 03/14/2023  2:32:38.68  END - Error Level 0  Error Flag "0" 
+
+
+C:\Apps\HotKey-G7\src\Fusion\src 
+
+C:\Apps\HotKey-G7\src\Fusion\src 
+

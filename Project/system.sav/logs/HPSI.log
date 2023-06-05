@@ -1,0 +1,184 @@
+Tue 03/14/2023  2:32:45.23 APP File Name = 94ea88e7c0ab461fa7781a81574c6e35 
+Tue 03/14/2023  2:32:45.23 Libs Dependency = Microsoft.VCLibs.140.00_14.0.27810.0 
+Tue 03/14/2023  2:32:45.30 HP PS2 Internal KB(HPQ8002) Found. So App will be installed. 
+Tue 03/14/2023  2:32:45.30 Installing HP System Information Application 
+Tue 03/14/2023  2:32:45.30 Parameter Value = [] 
+Tue 03/14/2023  2:32:45.31  HP System Information Application online installation started 
+2023-03-14 02:32:45, Info                  DISM   PID=7216 TID=9412 Scratch directory set to 'C:\Users\ADMINI~1\AppData\Local\Temp\'. - CDISMManager::put_ScratchDir
+2023-03-14 02:32:45, Info                  DISM   PID=7216 TID=9412 DismCore.dll version: 10.0.19041.746 - CDISMManager::FinalConstruct
+2023-03-14 02:32:45, Info                  DISM   Initialized Panther logging at C:\system.sav\logs\HPSI.log
+2023-03-14 02:32:45, Info                  DISM   PID=7216 TID=9412 Successfully loaded the ImageSession at "C:\windows\system32\Dism" - CDISMManager::LoadLocalImageSession
+2023-03-14 02:32:45, Info                  DISM   Initialized Panther logging at C:\system.sav\logs\HPSI.log
+2023-03-14 02:32:45, Info                  DISM   DISM Provider Store: PID=7216 TID=9412 Found and Initialized the DISM Logger. - CDISMProviderStore::Internal_InitializeLogger
+2023-03-14 02:32:45, Info                  DISM   DISM Provider Store: PID=7216 TID=9412 Failed to get and initialize the PE Provider.  Continuing by assuming that it is not a WinPE image. - CDISMProviderStore::Final_OnConnect
+2023-03-14 02:32:45, Info                  DISM   DISM Provider Store: PID=7216 TID=9412 Finished initializing the Provider Map. - CDISMProviderStore::Final_OnConnect
+2023-03-14 02:32:45, Info                  DISM   Initialized Panther logging at C:\system.sav\logs\HPSI.log
+2023-03-14 02:32:45, Info                  DISM   DISM Manager: PID=7216 TID=9412 Successfully created the local image session and provider store. - CDISMManager::CreateLocalImageSession
+2023-03-14 02:32:45, Info                  DISM   DISM.EXE: 
+2023-03-14 02:32:45, Info                  DISM   DISM.EXE: <----- Starting Dism.exe session ----->
+2023-03-14 02:32:45, Info                  DISM   DISM.EXE: 
+2023-03-14 02:32:45, Info                  DISM   DISM.EXE: Host machine information: OS Version=10.0.19045, Running architecture=amd64, Number of processors=8
+2023-03-14 02:32:45, Info                  DISM   DISM.EXE: Dism.exe version: 10.0.19041.844
+2023-03-14 02:32:45, Info                  DISM   DISM.EXE: Executing command line: DISM.exe  /Online /Add-ProvisionedAppxPackage /PackagePath:"C:\Apps\HotKey-G7\src\HotkeySupportUWP\src\app\94ea88e7c0ab461fa7781a81574c6e35.appxbundle" /Region="all" /LicensePath:"C:\Apps\HotKey-G7\src\HotkeySupportUWP\src\app\94ea88e7c0ab461fa7781a81574c6e35_License1.xml" /dependencypackagepath="C:\Apps\HotKey-G7\src\HotkeySupportUWP\src\app\Microsoft.VCLibs.140.00_14.0.27810.0_arm__8wekyb3d8bbwe.appx" /dependencypackagepath="C:\Apps\HotKey-G7\src\HotkeySupportUWP\src\app\Microsoft.VCLibs.140.00_14.0.27810.0_arm64__8wekyb3d8bbwe.appx" /DependencyPackagePath="C:\Apps\HotKey-G7\src\HotkeySupportUWP\src\app\Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe.appx" /dependencypackagepath="C:\Apps\HotKey-G7\src\HotkeySupportUWP\src\app\Microsoft.VCLibs.140.00_14.0.27810.0_x86__8wekyb3d8bbwe.appx" /logpath:C:\system.sav\logs\HPSI.log 
+2023-03-14 02:32:45, Info                  DISM   DISM Provider Store: PID=7216 TID=9412 Connecting to the provider located at C:\windows\system32\Dism\FolderProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:45, Info                  DISM   DISM Manager: PID=7216 TID=9412 physical location path: C:\ - CDISMManager::CreateImageSession
+2023-03-14 02:32:45, Info                  DISM   DISM Manager: PID=7216 TID=9412 Event name for current DISM session is Global\{FBC08604-901D-467C-9AC2-E9D141CF1FD0} - CDISMManager::CheckSessionAndLock
+2023-03-14 02:32:45, Info                  DISM   DISM Manager: PID=7216 TID=9412 Create session event 0x230 for current DISM session and event name is Global\{FBC08604-901D-467C-9AC2-E9D141CF1FD0}  - CDISMManager::CheckSessionAndLock
+2023-03-14 02:32:45, Info                  DISM   DISM Manager: PID=7216 TID=9412 Copying DISM from "C:\windows\System32\Dism" - CDISMManager::CreateImageSessionFromLocation
+2023-03-14 02:32:47, Info                  DISM   DISM Manager: PID=7216 TID=9412 Successfully loaded the ImageSession at "C:\Users\ADMINI~1\AppData\Local\Temp\C85EBAB7-215A-4CC2-BB99-08A9694840DE" - CDISMManager::LoadRemoteImageSession
+2023-03-14 02:32:47, Info                  DISM   DISM Image Session: PID=3456 TID=6688 Instantiating the Provider Store. - CDISMImageSession::get_ProviderStore
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Initializing a provider store for the IMAGE session type. - CDISMProviderStore::Final_OnConnect
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Connecting to the provider located at C:\Users\ADMINI~1\AppData\Local\Temp\C85EBAB7-215A-4CC2-BB99-08A9694840DE\OSProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM OS Provider: PID=3456 TID=6688 Defaulting SystemPath to C:\ - CDISMOSServiceManager::Final_OnConnect
+2023-03-14 02:32:47, Info                  DISM   DISM OS Provider: PID=3456 TID=6688 Defaulting Windows folder to C:\Windows - CDISMOSServiceManager::Final_OnConnect
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Attempting to initialize the logger from the Image Session. - CDISMProviderStore::Final_OnConnect
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Connecting to the provider located at C:\Users\ADMINI~1\AppData\Local\Temp\C85EBAB7-215A-4CC2-BB99-08A9694840DE\LogProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   Initialized Panther logging at C:\system.sav\logs\HPSI.log
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Found and Initialized the DISM Logger. - CDISMProviderStore::Internal_InitializeLogger
+2023-03-14 02:32:47, Warning               DISM   DISM Provider Store: PID=3456 TID=6688 Failed to load the provider: C:\Users\ADMINI~1\AppData\Local\Temp\C85EBAB7-215A-4CC2-BB99-08A9694840DE\PEProvider.dll. - CDISMProviderStore::Internal_GetProvider(hr:0x8007007e)
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Failed to get and initialize the PE Provider.  Continuing by assuming that it is not a WinPE image. - CDISMProviderStore::Final_OnConnect
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Finished initializing the Provider Map. - CDISMProviderStore::Final_OnConnect
+2023-03-14 02:32:47, Info                  DISM   Initialized Panther logging at C:\system.sav\logs\HPSI.log
+2023-03-14 02:32:47, Info                  DISM   Initialized Panther logging at C:\system.sav\logs\HPSI.log
+2023-03-14 02:32:47, Info                  DISM   DISM Manager: PID=7216 TID=9412 Image session successfully loaded from the temporary location: C:\Users\ADMINI~1\AppData\Local\Temp\C85EBAB7-215A-4CC2-BB99-08A9694840DE - CDISMManager::CreateImageSession
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Target image information: OS Version=10.0.19045.2364, Image architecture=amd64
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Image session version: 10.0.19041.746
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Getting the collection of providers from an image provider store type. - CDISMProviderStore::GetProviderCollection
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Connecting to the provider located at C:\Users\ADMINI~1\AppData\Local\Temp\C85EBAB7-215A-4CC2-BB99-08A9694840DE\CbsProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  CSI    00000001 Shim considered [l:126]'\??\C:\windows\Servicing\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.2300_none_7e14edbc7c88b7d5\wcp.dll' : got STATUS_OBJECT_PATH_NOT_FOUND
+2023-03-14 02:32:47, Info                  CSI    00000002 Shim considered [l:123]'\??\C:\windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.2300_none_7e14edbc7c88b7d5\wcp.dll' : got STATUS_SUCCESS
+2023-03-14 02:32:47, Info                  DISM   DISM OS Provider: PID=3456 TID=6688 Determined System directory to be C:\Windows\System32 - CDISMOSServiceManager::get_SystemDirectory
+2023-03-14 02:32:47, Info                  DISM   DISM Package Manager: PID=3456 TID=6688 Finished initializing the CbsConUI Handler. - CCbsConUIHandler::Initialize
+2023-03-14 02:32:47, Info                  CSI    00000001 Shim considered [l:126]'\??\C:\windows\Servicing\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.2300_none_7e14edbc7c88b7d5\wcp.dll' : got STATUS_OBJECT_PATH_NOT_FOUND
+2023-03-14 02:32:47, Info                  CSI    00000002 Shim considered [l:123]'\??\C:\windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.2300_none_7e14edbc7c88b7d5\wcp.dll' : got STATUS_SUCCESS
+2023-03-14 02:32:47, Info                  DISM   DISM Package Manager: PID=3456 TID=6688 CBS is being initialized for online use. More information about CBS actions can be located at: %windir%\logs\cbs\cbs.log - CDISMPackageManager::Initialize
+2023-03-14 02:32:47, Info                  DISM   DISM Package Manager: PID=3456 TID=6688 Loaded servicing stack for online use only. - CDISMPackageManager::CreateCbsSession
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Connecting to the provider located at C:\Users\ADMINI~1\AppData\Local\Temp\C85EBAB7-215A-4CC2-BB99-08A9694840DE\MsiProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Connecting to the provider located at C:\Users\ADMINI~1\AppData\Local\Temp\C85EBAB7-215A-4CC2-BB99-08A9694840DE\IntlProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Connecting to the provider located at C:\Users\ADMINI~1\AppData\Local\Temp\C85EBAB7-215A-4CC2-BB99-08A9694840DE\IBSProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Connecting to the provider located at C:\Users\ADMINI~1\AppData\Local\Temp\C85EBAB7-215A-4CC2-BB99-08A9694840DE\DmiProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  CSI    00000001 Shim considered [l:126]'\??\C:\windows\Servicing\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.2300_none_7e14edbc7c88b7d5\wcp.dll' : got STATUS_OBJECT_PATH_NOT_FOUND
+2023-03-14 02:32:47, Info                  CSI    00000002 Shim considered [l:123]'\??\C:\windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.2300_none_7e14edbc7c88b7d5\wcp.dll' : got STATUS_SUCCESS
+2023-03-14 02:32:47, Info                  DISM   DISM Driver Manager: PID=3456 TID=6688 Further logs for driver related operations can be found in the target operating system at %WINDIR%\inf\setupapi.offline.log - CDriverManager::Initialize
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Connecting to the provider located at C:\Users\ADMINI~1\AppData\Local\Temp\C85EBAB7-215A-4CC2-BB99-08A9694840DE\UnattendProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Connecting to the provider located at C:\Users\ADMINI~1\AppData\Local\Temp\C85EBAB7-215A-4CC2-BB99-08A9694840DE\SmiProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Warning               DISM   DISM Provider Store: PID=3456 TID=6688 Failed to load the provider: C:\Users\ADMINI~1\AppData\Local\Temp\C85EBAB7-215A-4CC2-BB99-08A9694840DE\EmbeddedProvider.dll. - CDISMProviderStore::Internal_GetProvider(hr:0x8007007e)
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Connecting to the provider located at C:\Users\ADMINI~1\AppData\Local\Temp\C85EBAB7-215A-4CC2-BB99-08A9694840DE\AppxProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Connecting to the provider located at C:\Users\ADMINI~1\AppData\Local\Temp\C85EBAB7-215A-4CC2-BB99-08A9694840DE\ProvProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Connecting to the provider located at C:\Users\ADMINI~1\AppData\Local\Temp\C85EBAB7-215A-4CC2-BB99-08A9694840DE\AssocProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Connecting to the provider located at C:\Users\ADMINI~1\AppData\Local\Temp\C85EBAB7-215A-4CC2-BB99-08A9694840DE\GenericProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Connecting to the provider located at C:\Users\ADMINI~1\AppData\Local\Temp\C85EBAB7-215A-4CC2-BB99-08A9694840DE\OfflineSetupProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Connecting to the provider located at C:\Users\ADMINI~1\AppData\Local\Temp\C85EBAB7-215A-4CC2-BB99-08A9694840DE\SysprepProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Connecting to the provider located at C:\Users\ADMINI~1\AppData\Local\Temp\C85EBAB7-215A-4CC2-BB99-08A9694840DE\TransmogProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Transmog Provider: PID=3456 TID=6688 Current image session is [ONLINE] - CTransmogManager::GetMode
+2023-03-14 02:32:47, Info                  DISM   DISM Transmog Provider: PID=3456 TID=6688 Audit Mode: [No] - CTransmogManager::Initialize
+2023-03-14 02:32:47, Info                  DISM   DISM Transmog Provider: PID=3456 TID=6688 GetProductType: ProductType = [WinNT] - CTransmogManager::GetProductType
+2023-03-14 02:32:47, Info                  DISM   DISM Transmog Provider: PID=3456 TID=6688 Product Type: [WinNT] - CTransmogManager::Initialize
+2023-03-14 02:32:47, Info                  DISM   DISM Transmog Provider: PID=3456 TID=6688 Product Type ServerNT : [No] - CTransmogManager::Initialize
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Connecting to the provider located at C:\Users\ADMINI~1\AppData\Local\Temp\C85EBAB7-215A-4CC2-BB99-08A9694840DE\SetupPlatformProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Got the collection of providers. Now enumerating them to build the command table.
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: DISM Log Provider
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: OSServices
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: DISM Package Manager
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: DISM Package Manager.
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: MsiManager
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: MsiManager.
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: IntlManager
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: IntlManager.
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: IBSManager
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: DriverManager
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: DriverManager.
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: DISM Unattend Manager
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: DISM Unattend Manager.
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: SmiManager
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: AppxManager
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: AppxManager.
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: ProvManager
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: ProvManager.
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: AssocManager
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: AssocManager.
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: GenericManager
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: GenericManager.
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: OfflineSetupManager
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: OfflineSetupManager.
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: SysprepManager
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: SysprepManager.
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: Edition Manager
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: Edition Manager.
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: SetupPlatformManager
+2023-03-14 02:32:47, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: SetupPlatformManager.
+2023-03-14 02:32:47, Info                  DISM   DISM Appx Provider: PID=3456 TID=6688 Converting IDismStringCollectionVector. - CAppxManager::ConvertIDismStringCollectionToVector
+2023-03-14 02:32:47, Info                  DISM   DISM Appx Provider: PID=3456 TID=6688 Converting IDismStringCollectionVector. - CAppxManager::ConvertIDismStringCollectionToVector
+2023-03-14 02:32:47, Info                  DISM   DISM Appx Provider: PID=3456 TID=6688 Converting IDismStringCollectionVector. - CAppxManager::ConvertIDismStringCollectionToVector
+2023-03-14 02:32:48, Info                  DISM   DISM Appx Provider: PID=3456 TID=6688 onecore\admin\appmodel\utilities\provisionhelper\msixpackageadapter.cpp (1518) - MsixPackage::Provisioning::Library::MsixPackageAdapter::IsPackageFramework [Msg] - No package reader found for AD2F1837.HPSystemInformation_2020.629.409.0_neutral_~_v10z8vjag6ke6, expected for bundles. - CAppxManager::InformationLoggingCallback
+2023-03-14 02:32:48, Info                  DISM   DISM Appx Provider: PID=3456 TID=6688 onecore\admin\appmodel\utilities\provisionhelper\msixprovisioningrequest.cpp (1015) - MsixPackage::Provisioning::Library::MsixProvisioningRequest::AddDependencyAppxPackage [Msg] - Package moniker 'Microsoft.VCLibs.140.00_14.0.27810.0_arm__8wekyb3d8bbwe' excluded as not applicable on this architecture - CAppxManager::InformationLoggingCallback
+2023-03-14 02:32:48, Info                  DISM   DISM Appx Provider: PID=3456 TID=6688 onecore\admin\appmodel\utilities\provisionhelper\msixprovisioningrequest.cpp (1015) - MsixPackage::Provisioning::Library::MsixProvisioningRequest::AddDependencyAppxPackage [Msg] - Package moniker 'Microsoft.VCLibs.140.00_14.0.27810.0_arm64__8wekyb3d8bbwe' excluded as not applicable on this architecture - CAppxManager::InformationLoggingCallback
+2023-03-14 02:32:48, Info                  DISM   DISM Appx Provider: PID=3456 TID=6688 onecore\admin\appmodel\utilities\provisionhelper\msixprovisioningrequest.cpp (1053) - MsixPackage::Provisioning::Library::MsixProvisioningRequest::AddDependencyAppxPackage [Msg] - Package moniker 'Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe' excluded as it is not applicable because an existing version was found - CAppxManager::InformationLoggingCallback
+2023-03-14 02:32:48, Info                  DISM   DISM Appx Provider: PID=3456 TID=6688 onecore\admin\appmodel\utilities\provisionhelper\msixprovisioningrequest.cpp (1053) - MsixPackage::Provisioning::Library::MsixProvisioningRequest::AddDependencyAppxPackage [Msg] - Package moniker 'Microsoft.VCLibs.140.00_14.0.27810.0_x86__8wekyb3d8bbwe' excluded as it is not applicable because an existing version was found - CAppxManager::InformationLoggingCallback
+2023-03-14 02:32:53, Info                  DISM   DISM Appx Provider: PID=3456 TID=6688 onecore\admin\appmodel\utilities\provisionhelper\msixpackageadapter.cpp (1117) - MsixPackage::Provisioning::Library::MsixPackageAdapter::IsDependencyTargetPackage [Msg] - No package reader found for AD2F1837.HPSystemInformation_2020.629.409.0_neutral_~_v10z8vjag6ke6, expected for bundles. - CAppxManager::InformationLoggingCallback
+2023-03-14 02:32:53, Info                  DISM   DISM Appx Provider: PID=3456 TID=6688 onecore\admin\appmodel\utilities\provisionhelper\msixpackageadapter.cpp (1518) - MsixPackage::Provisioning::Library::MsixPackageAdapter::IsPackageFramework [Msg] - No package reader found for AD2F1837.HPSystemInformation_2020.629.409.0_neutral_~_v10z8vjag6ke6, expected for bundles. - CAppxManager::InformationLoggingCallback
+2023-03-14 02:32:53, Info                  DISM   DISM Appx Provider: PID=3456 TID=6688 onecore\admin\appmodel\utilities\provisionhelper\msixpackageadapter.cpp (1117) - MsixPackage::Provisioning::Library::MsixPackageAdapter::IsDependencyTargetPackage [Msg] - No package reader found for AD2F1837.HPSystemInformation_2020.629.409.0_neutral_~_v10z8vjag6ke6, expected for bundles. - CAppxManager::InformationLoggingCallback
+2023-03-14 02:32:53, Info                  DISM   DISM Appx Provider: PID=3456 TID=6688 onecore\admin\appmodel\utilities\provisionhelper\msixpackageadapter.cpp (1518) - MsixPackage::Provisioning::Library::MsixPackageAdapter::IsPackageFramework [Msg] - No package reader found for AD2F1837.HPSystemInformation_2020.629.409.0_neutral_~_v10z8vjag6ke6, expected for bundles. - CAppxManager::InformationLoggingCallback
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Found the OSServices.  Waiting to finalize it until all other providers are unloaded. - CDISMProviderStore::Final_OnDisconnect
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Found the OSServices.  Waiting to finalize it until all other providers are unloaded. - CDISMProviderStore::Final_OnDisconnect
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Found the PE Provider.  Waiting to finalize it until all other providers are unloaded. - CDISMProviderStore::Final_OnDisconnect
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Finalizing the servicing provider(DISM Package Manager) - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Package Manager: PID=3456 TID=6688 Finalizing CBS core. - CDISMPackageManager::Finalize
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Disconnecting Provider: DISM Package Manager - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Finalizing the servicing provider(MsiManager) - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Disconnecting Provider: MsiManager - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Finalizing the servicing provider(IntlManager) - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Disconnecting Provider: IntlManager - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Finalizing the servicing provider(IBSManager) - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Disconnecting Provider: IBSManager - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Finalizing the servicing provider(DriverManager) - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Disconnecting Provider: DriverManager - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Finalizing the servicing provider(DISM Unattend Manager) - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Disconnecting Provider: DISM Unattend Manager - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Finalizing the servicing provider(SmiManager) - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Disconnecting Provider: SmiManager - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Finalizing the servicing provider(AppxManager) - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Disconnecting Provider: AppxManager - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Finalizing the servicing provider(ProvManager) - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Disconnecting Provider: ProvManager - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Finalizing the servicing provider(AssocManager) - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Disconnecting Provider: AssocManager - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Finalizing the servicing provider(GenericManager) - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Disconnecting Provider: GenericManager - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Finalizing the servicing provider(OfflineSetupManager) - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Disconnecting Provider: OfflineSetupManager - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Finalizing the servicing provider(SysprepManager) - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Disconnecting Provider: SysprepManager - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Finalizing the servicing provider(Edition Manager) - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Disconnecting Provider: Edition Manager - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Finalizing the servicing provider(SetupPlatformManager) - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Disconnecting Provider: SetupPlatformManager - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Releasing the local reference to OSServices. - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Disconnecting Provider: OSServices - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=3456 TID=6688 Releasing the local reference to DISMLogger.  Stop logging. - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Manager: PID=7216 TID=9412 Closing session event handle 0x230 - CDISMManager::CleanupImageSessionEntry
+2023-03-14 02:32:53, Info                  DISM   DISM.EXE: Image session has been closed. Reboot required=no.
+2023-03-14 02:32:53, Info                  DISM   DISM.EXE: 
+2023-03-14 02:32:53, Info                  DISM   DISM.EXE: <----- Ending Dism.exe session ----->
+2023-03-14 02:32:53, Info                  DISM   DISM.EXE: 
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=7216 TID=9412 Found the OSServices.  Waiting to finalize it until all other providers are unloaded. - CDISMProviderStore::Final_OnDisconnect
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=7216 TID=9412 Disconnecting Provider: FolderManager - CDISMProviderStore::Internal_DisconnectProvider
+2023-03-14 02:32:53, Info                  DISM   DISM Provider Store: PID=7216 TID=9412 Releasing the local reference to DISMLogger.  Stop logging. - CDISMProviderStore::Internal_DisconnectProvider
+Tue 03/14/2023  2:32:53.66 [DISM Return Code ] = 0 
+Tue 03/14/2023  2:32:53.67  HP System Information Application Installation completed... 
+HP System Information Application Installation completed... 
